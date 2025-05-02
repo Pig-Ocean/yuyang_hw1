@@ -26,36 +26,36 @@
 
 ### 1.加法
 
-![add](image\add.png)
+![add](image/add.png)
 
 ### 2.减法
 
-![sub](image\sub.png)
+![sub](image/sub.png)
 
 ### 3.乘法
 
-![mul](image\mul.png)
+![mul](image/mul.png)
 
 ### 4.数乘
 
-![scale](image\scale.png)
+![scale](image/scale.png)
 
 ### 5.转置
 
-![transpose](image\transpose.png)
+![transpose](image/transpose.png)
 
 ### 6.行列式
 
-![det](image\det.png)
+![det](image/det.png)
 
 ### 7.逆
 
-![inv](image\inv.png)
+![inv](image/inv.png)
 
 ### 8.秩
 
-![rank](image\rank.png)
+![rank](image/rank.png)
 
 ### 9.迹
 
-![trace](image\trace.png)
+![trace](image/trace.png)
